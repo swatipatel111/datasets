@@ -1,0 +1,16 @@
+GF_Mood,Money,Assignment_Work,Night_Out
+Good,High,No,Yes
+Good,Medium,No,Yes
+Good,Low,No,No
+Good,High,Yes,Yes
+Good,Medium,Yes,No
+Bad,High,No,Yes
+Bad,Medium,No,No
+Bad,Low,No,No
+Bad,High,Yes,No
+Bad,Medium,Yes,No
+Bad,Low,Yes,No
+Good,Low,Yes,No
+Good,High,No,Yes
+Bad,High,No,Yes
+Good,Medium,No,Yes
